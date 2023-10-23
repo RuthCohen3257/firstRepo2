@@ -1,0 +1,38 @@
+body{
+    direction:rtl ;
+    background-image: url();
+    background-size: cover;
+}
+#heb{
+    list-style: hebrew;
+}
+#salad{
+    list-style-image: url("salad.jpg");
+}
+#tal{
+    color: aqua;
+}
+#matar{
+    color: blue;
+}
+.geshem{
+    color:blue;
+    text-decoration:underline solid blue 1px;
+    }
+    #name{
+        font-size: 30px;
+        text-decoration-style: bold;
+    }
+    #name :first-child{
+        color: violet;
+    }
+    #name :nth-child(2){
+        color: yellowgreen;
+    }
+    #name :nth-child(3){
+        color: rgb(203, 57, 69);
+    }
+     #name :nth-child(4){
+        color: rgb(44, 192, 189);
+    }
+    
